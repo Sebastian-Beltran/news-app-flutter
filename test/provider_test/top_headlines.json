@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Rick Noack, Paul Schemm, Jennifer Hassan, Brittany Shammas",
+            "title": "Covid-19 live updates: Europe turns away from AstraZeneca vaccine in favor of Pfizer-BioNTech - The Washington Post",
+            "description": "French President Emmanuel Macron called the move pragmatic and said the E.U. will focus on more “effective” vaccines.",
+            "url": "https://www.washingtonpost.com/nation/2021/05/10/coronavirus-covid-live-updates-us/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T2V4XRFQ74I6XPEW7X2V3ZB354.jpg&w=1440",
+            "publishedAt": "2021-05-10T14:06:00Z",
+            "content": "PARIS The European Union is effectively turning away from the Oxford-AstraZeneca vaccine, after the Anglo-Swedish manufacturer fell behind on its delivery targets and amid concerns over the vaccines … [+2238 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "Dow Jones Today Rides Commodities Rally To New High, Nasdaq Lags; Freeport Jumps, BioNTech Spikes On Asia Deal - Investor's Business Daily",
+            "description": "Freeport McMoRan and BioNTech were early leaders, Chevron topped the Dow Jones today as stocks hammered out a mixed open on Monday.",
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-today-gains-nasdaq-futures-lag-as-commodities-rally-freeport-jumps-biontech-spikes-on-asia-deal/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2016/05/GUESTP-steel-051716-adobe.jpg",
+            "publishedAt": "2021-05-10T14:00:00Z",
+            "content": "Stocks launched in mixed trade Monday, as techs lagged, while commodities staged a broad-based rally. Miners led among growth stocks, with Freeport-McMoRan, Cleveland Cliffs and Southern Copper notch… [+7973 chars]"
+        }
+    ]
+}
